@@ -1,0 +1,5 @@
+This is a simple test file.
+It contains only basic words.
+No numbers or special characters here.
+Just plain English text for testing.
+The word count should be straightforward.

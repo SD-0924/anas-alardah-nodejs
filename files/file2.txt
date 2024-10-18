@@ -1,0 +1,6 @@
+This file has a mix of content!
+It includes numbers like 123 and 456.
+There are also special characters: @#$%^&*.
+Some words are hyphenated-like-this.
+And there are contractions: don't, can't, won't.
+The word counter should handle these cases.
